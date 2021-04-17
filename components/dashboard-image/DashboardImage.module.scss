@@ -1,0 +1,8 @@
+@use 'styles' as *;
+
+@media (max-width: $mobileBP) {
+  .dashboardImage {
+    width: 17.7263rem;
+    height: 11.2387rem;
+  }
+}

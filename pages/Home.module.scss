@@ -1,0 +1,11 @@
+@use 'styles' as *;
+
+.container {
+  min-height: 100vh;
+  @include centerColumn;
+}
+
+.main {
+  margin-bottom: 4.5rem;
+  @include centerColumn;
+}
