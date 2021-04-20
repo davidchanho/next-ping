@@ -2,10 +2,8 @@
 
 .container {
   min-height: 100vh;
-  @include centerColumn;
-}
-
-.main {
-  margin-bottom: 4.5rem;
-  @include centerColumn;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
 }

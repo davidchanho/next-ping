@@ -8,18 +8,18 @@
 .title {
   font-size: clamp(1.375rem, 8vw, 3rem);
   line-height: 3.75rem;
-  font-weight: 300;
+  font-weight: $font-weight-light;
   color: $grey;
   margin: 1.8125rem;
 
   span {
-    font-weight: 600;
+    font-weight: $font-weight-bold;
     color: $dark-blue;
   }
 }
 
 .subtitle {
-  font-weight: 300;
+  font-weight: $font-weight-light;
   font-size: clamp(0.75rem, 5vw, 1.25rem);
   color: $dark-blue;
 }

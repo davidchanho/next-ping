@@ -14,13 +14,11 @@ export default function Home() {
 
       <Header />
 
-      <main className={styles.main}>
-        <Titles />
+      <Titles />
 
-        <Signup />
+      <Signup />
 
-        <DashboardImage />
-      </main>
+      <DashboardImage />
 
       <Footer />
     </div>

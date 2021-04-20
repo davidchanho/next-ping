@@ -55,16 +55,15 @@ Users should be able to:
 
 ### What I learned
 
-I learned how to send email in a serverless environment. I also learned more about typography to enhance responsiveness. 
+I learned how to send email in a serverless environment.
 
 ### Continued development
 
-I will continue to extend my knowledge in responsive design and working with serverless environment.
+I will continue to extend my knowledge to work in a serverless environment.
 
 ### Useful resources
 
 - [Serverless email](https://stadtteilliebe.de/blog/serverless-contact-form) - This helped me for helping me set up Nodemailer with next.js.
-- [Responsive Web Typography v2 by Jason Pamental on Frontend Masters](https://frontendmasters.com/courses/responsive-typography-v2/) - This is helped me with understanding web typography.
 - [Truly Fluid Typography with 1 CSS PROPERTY! by DesignCourse](https://www.youtube.com/watch?v=dg488RrpNTc&ab_channel=DesignCourse) - This is helped me with a quick way to get fluid typography.
 
 ## Author

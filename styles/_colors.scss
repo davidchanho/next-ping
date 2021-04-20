@@ -1,4 +1,5 @@
 $blue: hsl(223, 87%, 63%);
+$light-blue: lighten($blue, 5%);
 
 $pale-blue: hsl(223, 100%, 88%);
 $dark-blue: hsl(209, 23%, 50%);
@@ -7,3 +8,6 @@ $red: hsl(354, 100%, 66%);
 
 $grey: hsl(0, 0%, 59%);
 $white: hsl(0, 0%, 100%);
+
+$green: hsl(156, 85%, 31%);
+$light-green: hsl(156, 83%, 91%);
